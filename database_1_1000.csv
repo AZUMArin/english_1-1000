@@ -1,63 +1,501 @@
-﻿id,name_ja,name_en,img_emblem
-hakodate,函館高専,"NIT, Hakodate KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/0.jpg
-tomakomai,苫小牧高専,"NIT, Tomakomai KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/1.jpg
-kushiro,釧路高専,"NIT, Kushiro KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/2.jpg
-asahikawa,旭川高専,"NIT, Asahikawa KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/3.jpg
-hachinohe,八戸高専,"NIT, Hachinohe KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/4.jpg
-ichinoseki,一関高専,"NIT, Ichinoseki KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/5.jpg
-sendai,仙台高専,"NIT, Sendai KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/6.jpg
-akita,秋田高専,"NIT, Akita KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/7.jpg
-tsuruoka,鶴岡高専,"NIT, Tsuruoka KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/8.jpg
-fukushima,福島高専,"NIT, Fukushima KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/9.jpg
-ibaraki,茨城高専,"NIT, Ibaraki KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/10.jpg
-oyama,小山高専,"NIT, Oyama KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/11.jpg
-gunma,群馬高専,"NIT, Gunma KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/12.jpg
-kisarazu,木更津高専,"NIT, Kisarazu KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/13.jpg
-tokyo,東京高専,"NIT, Tokyo KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/14.jpg
-nagano,長岡高専,"NIT, Nagano KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/15.jpg
-toyama,富山高専,"NIT, Toyama KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/19.jpg
-ishikawa,石川高専,"NIT, Ishikawa KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/20.jpg
-fukui,福井高専,"NIT, Fukui KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/21.jpg
-nagano,長野高専,"NIT, Nagano KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/22.jpg
-gifu,岐阜高専,"NIT, Gifu KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/23.jpg
-numazu,沼津高専,"NIT, Numazu KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/24.jpg
-toyama,豊田高専,"NIT, Toyota KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/25.jpg
-toba,鳥羽商船高専,"NIT, Toba shosen KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/26.jpg
-suzuka,鈴鹿高専,"NIT, Suzuka KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/27.jpg
-maizuru,舞鶴高専,"NIT, Maizuru KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/28.jpg
-akashi,証高専,"NIT, Akashi KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/29.jpg
-nara,奈良高専,"NIT, Nara KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/30.jpg
-wakayama,和歌山高専,"NIT, Wakayama KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/31.jpg
-yonago,米子高専,"NIT, Yonago KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/32.jpg
-matsue,松江高専,"NIT, Matsue KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/33.jpg
-tsuyama,津山高専,"NIT, Tsuyama KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_1/34.jpg
-hiroshima,広島商船高専,"NIT, Hiroshima shosen KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/0.jpg
-kure,呉高専,"NIT, Kure KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/1.jpg
-tokuyama,徳山高専,"NIT, Tokuyama KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/2.jpg
-ube,宇部高専,"NIT, Ube KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/3.jpg
-oshima,大島商船高専,"NIT, Oshima shosen KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/4.jpg
-anan,阿南高専,"NIT, Anan KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/5.jpg
-kagawa,香川高専,"NIT, Kagawa KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/6.jpg
-niihama,新居浜高専,"NIT, Niihama KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/7.jpg
-yuge,弓削商船高専,"NIT, Yuge shosen KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/8.jpg
-kochi,高知高専,"NIT, Kochi KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/9.jpg
-kurume,久留米高専,"NIT, Kurume KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/10.jpg
-ariake,有明高専,"NIT, Ariake KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/11.jpg
-kitakyushu,北九州高専,"NIT, Kitakyushu KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/12.jpg
-sasebo,佐世保高専,"NIT, Sasebo KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/13.jpg
-kumamoto,熊本高専,"NIT, Kumamoto KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/14.jpg
-oita,大分高専,"NIT, Oita KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/15.jpg
-miyakonojo,都城高専,"NIT, Miyakonojo KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/20.jpg
-kagoshima,鹿児島高専,"NIT, Kagoshima KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/21.jpg
-okinawa,沖縄高専,"NIT, Okinawa KOSEN",https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/22.jpg
-toritsu,東京都立産業技術高専,Tokyo Metropolitan KOSEN,https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/23.jpg
-osaka,大阪公立大学高専,Osaka Metropolitan University KOSEN,https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/24.jpg
-kobe,神戸市立高専,Kobe City KOSEN,https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/25.jpg
-salesian,サレジオ高専,Salesian Polytechnic (KOSEN),https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/26.jpg
-kanazawa,国際高専,International KOSEN Kanazawa,https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/27.jpg
-kindai,近畿大学高専,Kindai University KOSEN,https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/28.jpg
-kamiyama,神山まるごと高専,KAMIYAMA Marugoto KOSEN,https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/29.jpg
-kmitl,キングモンクット工科大学ラカバン校付属高専,KOSEN-KMITL,https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/30.jpg
-kmutt,キングモンクット工科大学トンブリ校付属高専,KOSEN KMUTT,https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/31.jpg
-mongol,モンゴル高専,Mongol KOSEN,https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/32.jpg
-must,モンゴル科学技術大学附属高専,MUST-KOSEN KOSEN,https://codeforkosen.github.io/kosen-opendata/data/school_emblem/school_emblem_2/33.jpg
+word,mean
+2,あ
+4,い
+6,あ
+8,い
+10,あ
+12,い
+14,あ
+16,い
+18,あ
+20,い
+22,あ
+24,い
+26,あ
+28,い
+30,あ
+32,い
+34,あ
+36,い
+38,あ
+40,い
+42,あ
+44,い
+46,あ
+48,い
+50,あ
+52,い
+54,あ
+56,い
+58,あ
+60,い
+62,あ
+64,い
+66,あ
+68,い
+70,あ
+72,い
+74,あ
+76,い
+78,あ
+80,い
+82,あ
+84,い
+86,あ
+88,い
+90,あ
+92,い
+94,あ
+96,い
+98,あ
+100,い
+102,あ
+104,い
+106,あ
+108,い
+110,あ
+112,い
+114,あ
+116,い
+118,あ
+120,い
+122,あ
+124,い
+126,あ
+128,い
+130,あ
+132,い
+134,あ
+136,い
+138,あ
+140,い
+142,あ
+144,い
+146,あ
+148,い
+150,あ
+152,い
+154,あ
+156,い
+158,あ
+160,い
+162,あ
+164,い
+166,あ
+168,い
+170,あ
+172,い
+174,あ
+176,い
+178,あ
+180,い
+182,あ
+184,い
+186,あ
+188,い
+190,あ
+192,い
+194,あ
+196,い
+198,あ
+200,い
+202,あ
+204,い
+206,あ
+208,い
+210,あ
+212,い
+214,あ
+216,い
+218,あ
+220,い
+222,あ
+224,い
+226,あ
+228,い
+230,あ
+232,い
+234,あ
+236,い
+238,あ
+240,い
+242,あ
+244,い
+246,あ
+248,い
+250,あ
+252,い
+254,あ
+256,い
+258,あ
+260,い
+262,あ
+264,い
+266,あ
+268,い
+270,あ
+272,い
+274,あ
+276,い
+278,あ
+280,い
+282,あ
+284,い
+286,あ
+288,い
+290,あ
+292,い
+294,あ
+296,い
+298,あ
+300,い
+302,あ
+304,い
+306,あ
+308,い
+310,あ
+312,い
+314,あ
+316,い
+318,あ
+320,い
+322,あ
+324,い
+326,あ
+328,い
+330,あ
+332,い
+334,あ
+336,い
+338,あ
+340,い
+342,あ
+344,い
+346,あ
+348,い
+350,あ
+352,い
+354,あ
+356,い
+358,あ
+360,い
+362,あ
+364,い
+366,あ
+368,い
+370,あ
+372,い
+374,373
+376,375
+378,377
+380,379
+382,381
+384,383
+386,385
+388,387
+390,389
+392,391
+394,393
+396,395
+398,397
+400,399
+402,401
+404,403
+406,405
+408,407
+410,409
+412,411
+414,413
+416,415
+418,417
+420,419
+422,421
+424,423
+426,425
+428,427
+430,429
+432,431
+434,433
+436,435
+438,437
+440,439
+442,441
+444,443
+446,445
+448,447
+450,449
+452,451
+454,453
+456,455
+458,457
+460,459
+462,461
+464,463
+466,465
+468,467
+470,469
+472,471
+474,473
+476,475
+478,477
+480,479
+482,481
+484,483
+486,485
+488,487
+490,489
+492,491
+494,493
+496,495
+498,497
+500,499
+502,501
+504,503
+506,505
+508,507
+510,509
+512,511
+514,513
+516,515
+518,517
+520,519
+522,521
+524,523
+526,525
+528,527
+530,529
+532,531
+534,533
+536,535
+538,537
+540,539
+542,541
+544,543
+546,545
+548,547
+550,549
+552,551
+554,553
+556,555
+558,557
+560,559
+562,561
+564,563
+566,565
+568,567
+570,569
+572,571
+574,573
+576,575
+578,577
+580,579
+582,581
+584,583
+586,585
+588,587
+590,589
+592,591
+594,593
+596,595
+598,597
+600,599
+602,601
+604,603
+606,605
+608,607
+610,609
+612,611
+614,613
+616,615
+618,617
+620,619
+622,621
+624,623
+626,625
+628,627
+630,629
+632,631
+634,633
+636,635
+638,637
+640,639
+642,641
+644,643
+646,645
+648,647
+650,649
+652,651
+654,653
+656,655
+658,657
+660,659
+662,661
+664,663
+666,665
+668,667
+670,669
+672,671
+674,673
+676,675
+678,677
+680,679
+682,681
+684,683
+686,685
+688,687
+690,689
+692,691
+694,693
+696,695
+698,697
+700,699
+702,701
+704,703
+706,705
+708,707
+710,709
+712,711
+714,713
+716,715
+718,717
+720,719
+722,721
+724,723
+726,725
+728,727
+730,729
+732,731
+734,733
+736,735
+738,737
+740,739
+742,741
+744,743
+746,745
+748,747
+750,749
+752,751
+754,753
+756,755
+758,757
+760,759
+762,761
+764,763
+766,765
+768,767
+770,769
+772,771
+774,773
+776,775
+778,777
+780,779
+782,781
+784,783
+786,785
+788,787
+790,789
+792,791
+794,793
+796,795
+798,797
+800,799
+802,801
+804,803
+806,805
+808,807
+810,809
+812,811
+814,813
+816,815
+818,817
+820,819
+822,821
+824,823
+826,825
+828,827
+830,829
+832,831
+834,833
+836,835
+838,837
+840,839
+842,841
+844,843
+846,845
+848,847
+850,849
+852,851
+854,853
+856,855
+858,857
+860,859
+862,861
+864,863
+866,865
+868,867
+870,869
+872,871
+874,873
+876,875
+878,877
+880,879
+882,881
+884,883
+886,885
+888,887
+890,889
+892,891
+894,893
+896,895
+898,897
+900,899
+902,901
+904,903
+906,905
+908,907
+910,909
+912,911
+914,913
+916,915
+918,917
+920,919
+922,921
+924,923
+926,925
+928,927
+930,929
+932,931
+934,933
+936,935
+938,937
+940,939
+942,941
+944,943
+946,945
+948,947
+950,949
+952,951
+954,953
+956,955
+958,957
+960,959
+962,961
+964,963
+966,965
+968,967
+970,969
+972,971
+974,973
+976,975
+978,977
+980,979
+982,981
+984,983
+986,985
+988,987
+990,989
+992,991
+994,993
+996,995
+998,997
+1000,999
